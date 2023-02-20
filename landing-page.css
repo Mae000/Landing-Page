@@ -133,5 +133,18 @@ a {
     padding: 100px;
 }
 
+.blue{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1000px;
+
+    padding: 90px;
+    margin-left: 300px;
+    background-color: #3882F6;
+    border-radius: 16px;
+
+}
+
 
 
